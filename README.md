@@ -1,3 +1,5 @@
-# Tasty Trails Food App - Episode 12 - Let's Build Our Store
+# Tasty Trails Food App
 
-## [Live Link](https://tasty-trails-episode12.netlify.app/)
+## NOTE: Add Allow CORS Extension to see realtime Swiggy Data
+
+## [Live Link](https://tasty-trails-six.vercel.app/)
